@@ -10,9 +10,5 @@ function toggleMod(){
     img.setAttribute("src", "./assets/assets/avatar.png")
    }
 
-  /*if(html.classList.contains('light')) {
-        html.classList.remove('light')
-    } else{
-        html.classList.add('light')
-    }*/
+  
 }
